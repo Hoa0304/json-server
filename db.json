@@ -4,13 +4,15 @@
       "id": "bcad",
       "userName": "Hoa03",
       "email": "hoane@gmail.com",
-      "password": "123hoa"
+      "password": "123hoa",
+      "faceImage": []
     },
     {
       "id": "d82b",
       "userName": "HoaDB",
       "email": "hoaa@gmail.com",
       "password": "hoa123"
+      "faceImage": []
     }
   ],
   "products": [
@@ -104,6 +106,5 @@
       "branch": "Computer",
       "star": 1
     }
-  ],
-  "images": []
+  ]
 }
